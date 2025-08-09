@@ -31,14 +31,33 @@ Using a blend of the **KDD** and **CRISP-DM** frameworks, I performed end-to-end
 ---
 
 ## **Methodology**
-![Project Framework](Framework.png)
+<p align="center">
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Framework.png?raw=true" width="600" />
+</p>
+
 
 ### **1. Data Pre-Processing**
-- Numerical Feature Analysis  
-- Correlation Analysis  
-- Categorical Feature Analysis  
-- Proximity Analysis  
+ #### Numerical Feature Analysis  
+<p align="center">
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Distribution%20of%20Numerical%20Features.png?raw=true" width="300" />
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Box%20Plot%20of%20Numerical%20Values.png?raw=true" width="300" />
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Pairplots%20of%20Numerical%20Features%20by%20Alcohol%20Consumption.png?raw=true" width="300" />
+</p>
 
+#### Correlation Analysis  
+<p align="center">
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Coorelation%20Heatmap%20of%20Numerical%20Variables.png?raw=true" width="400" />
+</p>
+
+#### Categorical Feature Analysis  
+<p align="center">
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Distribution%20of%20Categorical%20Variables.png?raw=true" width="400" />
+</p>
+ 
+#### Proximity Analysis  
+<p align="center">
+  <img src="https://github.com/Shadman-Rummat/Exploring-Obesity-A-Machine-Learning-Approach/blob/main/Feature%20Selection%20EDA%20and%20Descriptive%20Analyisis/Proximity%20Analysis%20of%20Gender%20and%20Age%20Gap.png?raw=true" width="600" />
+</p>
 ### **2. Data Processing**
 - **Normality Testing**  
 - **Data Discretization**  
