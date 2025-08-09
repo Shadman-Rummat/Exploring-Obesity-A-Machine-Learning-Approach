@@ -1,7 +1,7 @@
 # **Exploring Obesity as a Cardiovascular Disease Risk Factor – A Machine Learning Approach**
 
 **Module:** Data Analytics and Predictive Modelling
-> **Module Achievement:** Highest class score – **85%** (High Distinction)  
+> **Module Achievement:** Highest score in class (1st/150) – **85%** (High Distinction)  
 > **Dataset:** *Estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru, and Mexico*  
 > Authors: Fabio Mendoza Palechor & Alexis de la Hoz Manotas [[Link]](https://www.sciencedirect.com/science/article/pii/S2352340919306985#bib1)  
 
