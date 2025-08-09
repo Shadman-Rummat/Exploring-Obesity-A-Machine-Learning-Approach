@@ -1,4 +1,4 @@
-# Data Analytics and Predictive Modelling
+# **Exploring Obesity as a Cardiovascular Disease Risk Factor – A Machine Learning Approach**
 
 **Module:** Data Analytics and Predictive Modelling
 > **Module Achievement:** Highest class score – **85%** (High Distinction)  
