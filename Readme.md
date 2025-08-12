@@ -173,11 +173,11 @@ This study demonstrates how **data analytics** can play a pivotal role in identi
 The methodology can be adapted for broader datasets to improve **public health awareness** and **policy-making** for obesity prevention.  
 
 ---
+## Repository Structure
 
-## **Repository Structure**
 ```plaintext
-├── data/                # Dataset files
-├── notebooks/           # Jupyter Notebooks for analysis
-├── scripts/             # Python scripts for ML models
-├── results/             # Output graphs, evaluation metrics
-└── README.md            # Project documentation
+├── Dataset/                            # Raw dataset files
+├── Data Pre-Processing/                # Data cleaning and feature selection scripts/notebooks
+├── Data Processing/                    # Clustering, classification, and regression analysis code and outputs
+├── Feature Selection EDA and Descriptive Analysis/   # Exploratory data analysis and visualization outputs
+└── README.md                          # Project documentation and overview
